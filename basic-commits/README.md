@@ -57,3 +57,4 @@ Other editor options:
 - `git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst"`
 
 // test
+/// this is the new branch file
