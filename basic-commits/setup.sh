@@ -2,3 +2,6 @@
 kata="basic-commits-master"
 source ../utils/utils.sh
 make-exercise-repo
+
+
+///2222
